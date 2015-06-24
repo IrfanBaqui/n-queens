@@ -1,2 +1,2 @@
 #n-queens
-This was a fun practice project with a pair.
+Implementation of the classic n-queens problem with a pair.
